@@ -29,6 +29,7 @@ style.css
    ```bash
    git clone https://github.com/Virgindevil/web-practice-3.git
 
+ㅤ
 Вариант А:
 
 Откройте файл *index.html* из папки *project* в любом современном браузере:
@@ -41,6 +42,7 @@ Mozilla Firefox
 
 Microsoft Edge
 
+ㅤ
 Вариант Б:
 
 Запустить файл *run-site.bat* в папке *project*
